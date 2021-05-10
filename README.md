@@ -10,7 +10,7 @@
   
 ____Programming And Memes____
 
-Want to contact <a href="https://github.com/Azim-vau"><b> </a> ?</br><br>
+Want to contact <a href="https://github.com/Sultan-Baloch"><b> </a> ?</br><br>
 <img src="https://github.com/Sultan-Baloch/Sultan-Baloch/blob/main/whatsapp.png" alt="alt text" width="25" height="25"> <br>
 CONTACT : <i>+923476508876</i>  <br> <br> 
 
@@ -21,25 +21,11 @@ CONTACT : <i>+923476508876</i>  <br> <br>
 - [x] Php
   ```php
 
-  <!DOCTYPE html>
-  <html>
-  <body>
-
-  <?php
-  echo "Hello World...!";
-  ?>
-
-  </body>
-  </html>
-
   ```
 
 - [x] python
   ```python
-  #!usr/bin/python
-  #-*-coding: utf-8-*-
   
-  print ("Hello World...!")
   ```
 <br><br>
 
