@@ -12,7 +12,7 @@ ____Programming And Memes____
 
 Want to contact <a href="https://github.com/Sultan-Baloch"><b> </a> ?</br><br>
 <img src="https://github.com/Sultan-Baloch/Sultan-Baloch/blob/main/whatsapp.png" alt="alt text" width="25" height="25"> <br>
-CONTACT : <i>+923476508876</i>  <br> <br> 
+[CONTACT]https://wa.me/+923476508876
 
 <div align="center">
 <h2>&quot;~ANONYMOUS~&quot;</h2>
